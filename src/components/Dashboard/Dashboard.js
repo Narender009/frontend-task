@@ -36,7 +36,7 @@ const Dashboard = () => {
           <img 
               src={`http://localhost:5000${currentUser.profileImageUrl}`} 
               alt="Profile" 
-              className="img-fluid rounded-circle mb-3 ml-5" 
+              className="img-fluid rounded-circle mb-3 ml-10" 
               style={{ width: '150px', height: '150px', objectFit: 'cover' }}
             />
 
